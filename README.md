@@ -14,3 +14,13 @@ Add map for choice customer location
 Connect posts service for get delivery prices
 
 ![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1607.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1608.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1609.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1610.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1611.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1612.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1613.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1614.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1615.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1616.PNG)
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1617.PNG)
