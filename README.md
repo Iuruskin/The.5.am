@@ -12,3 +12,5 @@ Opportunity to choice diffirent currency, and get price by json request current 
 Connect acquiring for payments
 Add map for choice customer location
 Connect posts service for get delivery prices
+
+![Image alt](https://github.com/Iuruskin/The.5.am/blob/271a866a28986663e6a545f31af33d290e9b719c/IMG_1607.PNG)
